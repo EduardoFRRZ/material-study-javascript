@@ -1,3 +1,3 @@
-#Meus código basicos em Javascript
+#Meus códigos basicos em Javascript
 
 Obs: estudos/livros
