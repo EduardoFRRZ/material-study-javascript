@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Objetos - Carro</title>
+</head>
+<body>
+<script>
+	Carro = {
+		marca:"Volks",
+		modelo:"fusca",
+		ano:1995
+	}
+	marca = Carro.marca;
+	modelo = Carro.modelo;
+	ano = Carro.ano;
+
+	exibir = function(){
+		alert(marca);
+		alert(ano);
+		alert(modelo);
+	}
+
+</script>
+	<button type="button" onclick="alert(modelo);">Exibir modelo</button>
+	<button type="button" onclick="alert(marca);">Exibir marca</button>
+	<button type="button" onclick="alert(ano);">Exibir ano</button>
+	<button type="button" onclick='exibir()'>Exibir tudo</button>
+</body>
+</html>
