@@ -1,7 +1,7 @@
 #Meus códigos basicos em Javascript
 ## Começo da jornada
 
-![JAVASCRIPT](img/js.png)
+![JAVASCRIPT](img/gif.gif)
 
 
 Obs: estudos/livros
@@ -18,6 +18,6 @@ Obs: estudos/livros
 ####write.js  :white_check_mark:
 - documentWrite só dando uma olhada mesmo
 
-![JAVASCRIPT](img/gif.gif)
+
 
 
